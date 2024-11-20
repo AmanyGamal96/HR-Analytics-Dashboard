@@ -24,3 +24,7 @@ This project explores employee performance, satisfaction, and retention using Po
 
 ## Author
 Amany Gamal Abou Elhassan and Team.
+
+<img width="762" alt="image" src="https://github.com/user-attachments/assets/30d42355-be39-496a-9bbd-39d2c379d8bf">
+
+
